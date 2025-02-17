@@ -63,7 +63,7 @@ df = pd.read_excel(file_path, dtype=str)  # ป้องกัน NaN และ�
 1.ตรวจสอบว่าไฟล์อยู่ในโฟลเดอร์ site-packages/panphon/data/
 dir %LOCALAPPDATA%\Programs\Python\Python310\Lib\site-packages\panphon\data\
 
-2.ถ้าไม่มีไฟล์ ดาวน์โหลดไฟล์ featuretable.csv ให้ copy ไฟล์ ipa_all.csv เปลี่ยนชื่อ เป็น featuretable.cs
+2.ถ้าไม่มีไฟล์ featuretable.csv ให้ copy ไฟล์ ipa_all.csv เปลี่ยนชื่อ เป็น featuretable.cs
 
 
 3️⃣ ปัญหา: AttributeError: 'float' object has no attribute 'lower'
