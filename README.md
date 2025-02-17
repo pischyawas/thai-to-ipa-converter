@@ -14,7 +14,7 @@ pip install pandas epitran panphon openpyxl
 ต้องมี คอลัมน์ "คำศัพท์" (เก็บคำภาษาไทยที่ต้องการแปลง)
 ดาวน์โหลดไฟล์ Epitran.py จาก Repo นี้
 
-แก้ไข file_path = "ชื่อไฟล์.xlsx" ตามชื่อไฟล์ของพี่
+แก้ไข file_path = "ชื่อไฟล์.xlsx" ตามชื่อไฟล์ของคุณ
 รันสคริปต์
 python Epitran.py
 
